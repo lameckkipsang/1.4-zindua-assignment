@@ -17,9 +17,9 @@ If you want to view my project on your computer, follow these steps:
 4. Open the project folder and double-click the `index.html` file to open it in your web browser.
 
 ## Screenshots
-* **Hero Section:** assets\Screenshot 1.png
-* **Our Menu:** assets\Screenshot 2.png
-* **Contact Form:** assets\Screenshot 2.png
+* **Hero Section:** ![Hero Section](assets/Screenshot%201.png)
+* **Our Menu:** ![Our Menu](assets/Screenshot%202.png)
+* **Contact Form:** ![Contact Form](assets/Screenshot%202.png)
 ## Business Rationale
 I designed the website to feel like a cozy, local cafe. 
 * I chose a color palette with dark brown, cream, and warm orange because they remind people of coffee and baked goods.
